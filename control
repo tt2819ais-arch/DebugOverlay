@@ -1,0 +1,8 @@
+Package: com.debug.overlay
+Name: Debug Overlay
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Educational debug overlay for testing
+Maintainer: Developer
+Author: Developer
+Section: Tweaks
